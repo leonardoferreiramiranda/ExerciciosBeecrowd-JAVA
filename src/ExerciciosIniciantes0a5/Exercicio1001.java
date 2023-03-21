@@ -1,4 +1,4 @@
-package ExerciciosParaIniciantes;
+package ExerciciosIniciantes0a5;
 
 import java.io.IOException;
 import java.util.Scanner;
