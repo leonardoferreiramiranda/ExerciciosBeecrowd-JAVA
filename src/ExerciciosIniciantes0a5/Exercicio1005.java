@@ -1,4 +1,4 @@
-package ExerciciosInicis0a5;
+package ExerciciosIniciantes0a5;
 
 import java.io.IOException;
 import java.util.Locale;
