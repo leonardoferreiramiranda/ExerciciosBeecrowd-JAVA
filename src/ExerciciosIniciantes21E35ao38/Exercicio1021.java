@@ -1,4 +1,4 @@
-package ExerciciosIniciantes21a;
+package ExerciciosIniciantes21E35ao38;
 
 import java.util.Scanner;
 
