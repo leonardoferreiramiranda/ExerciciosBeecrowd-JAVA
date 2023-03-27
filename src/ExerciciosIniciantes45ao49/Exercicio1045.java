@@ -1,5 +1,6 @@
 package ExerciciosIniciantes45ao49;
 
+import java.io.IOException;
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -23,7 +24,7 @@ Imprima todas as classificações do triângulo especificado na entrada.
 
 public class Exercicio1045 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
